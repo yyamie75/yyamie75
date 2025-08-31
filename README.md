@@ -1,6 +1,6 @@
-# hiiiiii ^_^ pls sign my ata ![tumblr_db506dda949f7c230a221cd139ada141_bbb158be_75](https://github.com/user-attachments/assets/9b5064c9-3680-425b-8bbc-7237320ecc9d)
+# hiiiiii ^_^ pls sign my ata <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/33b94305-0456-4194-a82a-0a3fe61cab17" />
 
-
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/9e9c4c20-790a-4eb1-affe-7e8204dc2786" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/647ad5a9-7daf-4c96-b07b-be22990d451a" />
-<img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/a26c7b21-c0fc-4064-aa82-8df8ec8acae9" />
+[![Wanna Quit All the Time](https://i.postimg.cc/VkQ7dLmb/Screenshot-2025-08-31-163420-Picsart-Image-Resizer.png)](https://open.spotify.com/track/3w3seawXfQGat9yH2B8Tge?si=801e43946e8548fc)
+[![Thinking About You](https://i.postimg.cc/R0C2ZVLL/ab67616d0000b273c699d66824a938624c44c2b7-Picsart-Image-Resizer.png)](https://open.spotify.com/track/7hNPcyHhNYLCtTFa5bxvX1?si=237ab2d11eab4011)
+[![Right Side of My Neck](https://i.postimg.cc/JzxdvCCD/ab67616d0000b273ac4ebd092fa2cf210e4c8023-Picsart-Image-Resizer.png)](https://open.spotify.com/track/3cxZT78mZDyLsLPJKcTu3U?si=102ac77c9b1a450f)
+[![Is It Too Much To Ask](https://i.postimg.cc/ZRB7W9Bp/ab67616d0000b2733611e950b84709f94d737416-Picsart-Image-Resizer.png)](https://open.spotify.com/track/2UkoyDNn9bJbGl6sH87xXc?si=511a700ad96e44e3)
