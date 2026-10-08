@@ -1,4 +1,12 @@
-　　　　　kate 　or　yoshika　　　　　eng/ch/filo　(english preferred)　　bgwi/iwec　always　　　sometimes dry
+<html>
+<p align="center"><b>kate or yoshika</b></p>
+<p align="center">eng/ch/filo　(english preferred)　　bgwi/iwec　always　　mostly and sometimes dry</p>
+
+<details align="center">
+ <summary>short introduction</summary>
+ hi hi! i am socially awkward, i prefer to not socialize most of the time because i feel awkward while doing so. please refrain from making suggestive jokes around me, especially if you're my friend or what not. i would appreciate it if you speak using tone tags!! <3
+  
+</details>
 
 <div align="center">
 <img alt="yoshika" src="https://file.garden/aGePDE9X_j-yMokP/ezgif.com-gif-maker.gif">
@@ -18,4 +26,8 @@
 </details>
 </div>
 
-<a align="center" href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=737A9A&center=true&vCenter=true&width=435&lines=when+they+see+us+holding+hands%2C;they+wish+that+they+were+geeks+in+love+%E2%99%A1;and+when+they+hear+our+favorite+bands%2C;they+wish+that+they+were+geeks+in+love+.+.+.;%40yaoidoctor+%3C3" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=737A9A&center=true&vCenter=true&width=435&lines=when+they+see+us+holding+hands%2C;they+wish+that+they+were+geeks+in+love+%E2%99%A1;and+when+they+hear+our+favorite+bands%2C;they+wish+that+they+were+geeks+in+love+.+.+.;%40yaoidoctor+%3C3" alt="Typing SVG" />
+  </a>
+</p>
