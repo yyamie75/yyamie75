@@ -21,7 +21,7 @@
 <details>
   <summary>my typology</summary>
   
-  ISFP , SO/SX9w8 , 9w8-7w6-4w5 , SLOAN , SEI , |A|CxIv/E/g , FELV , Phleg-Sang , AV/AC , true-neutral , [I]CE , CS-I , VPBN ,
+  ISFJ , SO/SX9w8 , 9w8-7w6-4w5 , slO|A|x , SEI , |A|CxIv/E/g , FELV , Phleg-Sang , AV/AC , true-neutral , [I]CE , CS-I , VPBN ,
   <br> feel free to correct if im wrong though. </br>
   
 </details>
