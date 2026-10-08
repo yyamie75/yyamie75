@@ -28,6 +28,6 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=when+they+see+us+holding+hands%2C;they+wish+that+they+were+geeks+in+love+%E2%99%A1;and+when+they+hear+our+favorite+bands%2C;they+wish+that+they+were+geeks+in+love+.+.+.;%40yaoidoctor+%3C3)](https://git.io/typing-svg"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=700&color=FFFFFF&center=true&vCenter=true&width=435&lines=when+they+see+us+holding+hands%2C;they+wish+that+they+were+geeks+in+love+%E2%99%A1;and+when+they+hear+our+favorite+bands%2C;they+wish+that+they+were+geeks+in+love+.+.+.;%40yaoidoctor+%3C3"/>
   </a>
 </p>
