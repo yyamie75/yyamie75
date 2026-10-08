@@ -1,6 +1,6 @@
 <html>
 <p align="center"><b>kate or yoshika</b></p>
-<p align="center">eng/ch/filo　(english preferred)　　bgwi/iwec　always　　mostly and sometimes dry</p>
+<p align="center">ch/filo (eng preferred)　　bgwi/iwec　always　　dry</p>
 
 <details align="center">
  <summary>short introduction</summary>
