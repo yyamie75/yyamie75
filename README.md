@@ -13,8 +13,8 @@
 <details>
   <summary>my interests</summary>
   
-  touhou (specifically th13), reverse 1999, fear & hunger, when they cry (higurashi only), yttd, danganronpa (ultra despair girls & trigger happy havoc), rwby, frozen soul (or dream game), typology, jjba, homestuck, hetalia, deltarune/undertale,
-  <br>nerdcore (mc chris ♡), j-pop, electronic music, rock (alternative), numetal</br>
+  touhou (th13 ♡), reverse 1999, fear & hunger (including termina), when they cry (higurashi & umineko), yttd, danganronpa (ultra despair girls & trigger happy havoc), rwby, frozen soul (or dream game), typology, jjba, homestuck, hetalia, deltarune/undertale, love curse: find your soulmate, morimens, project moon, Kitanai Kimi ga Ichiban Kawaii (i love your cruddy), i love amy, alnst, etc...
+  <br>music: nerdcore (mc chris ♡), j-pop, electronic music (such as electroclash, cybergrind etc), rock (alternative), numetal, </br>
   
 </details>
 
