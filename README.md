@@ -4,7 +4,7 @@
 
 <details align="center">
  <summary>short introduction</summary>
- hi hi! i am socially awkward, i prefer to not socialize most of the time because i feel awkward while doing so. please refrain from making suggestive jokes around me, especially if you're my friend or what not. i would appreciate it if you speak using tone tags!! <3
+ hi hi! i am socially awkward, i prefer to not socialize most of the time because i feel awkward while doing so, but i'll be more social if you start interacting with me!! (w2i most of the time because i might miss it). please try to maintain conversations friendly as possible. i would appreciate it if you speak using tone tags!! <3
   
 </details>
 
