@@ -14,14 +14,14 @@
   <summary>my interests</summary>
   
   touhou (th13 ♡), reverse 1999, fear & hunger (including termina), when they cry (higurashi & umineko), yttd, danganronpa (ultra despair girls & trigger happy havoc), rwby, frozen soul (or dream game), typology, jjba, homestuck, hetalia, deltarune/undertale, love curse: find your soulmate, morimens, project moon, Kitanai Kimi ga Ichiban Kawaii (i love your cruddy), i love amy, alnst, etc...
-  <br>music: nerdcore (mc chris ♡), j-pop, electronic music (such as electroclash, cybergrind etc), rock (alternative), numetal, </br>
+  <br>music: nerdcore, j-pop, electronic music (such as electroclash, cybergrind etc), rock (alternative), numetal, emocore/screamo/myspace </br>
   
 </details>
 
 <details>
   <summary>my typology</summary>
   
-  ISFJ , SO/SX9w8 , 974 the gentle spirit , slO|A|x , ESI , |A|CxIv/E/g , FELV , Phleg-Sang , AV/AC , true-neutral , [I]CE , CS-I , VPBN ,
+  ISFJ , SO/SX9w8 , 974 the gentle spirit , slO|A|x , ESI , |A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,
   <br> feel free to correct if im wrong though. </br>
   
 </details>
