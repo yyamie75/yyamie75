@@ -21,7 +21,7 @@
 <details>
   <summary>my typology</summary>
   
-  ISFJ , SO/SX9w8 , 974 the gentle spirit , slO|A|x , ESI , |A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,
+  ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI , |A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,
   <br> feel free to correct if im wrong though. </br>
   
 </details>
