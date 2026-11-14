@@ -16,30 +16,30 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 <details>
   <summary>$\textsf{\color{#c5e8de}my interests}$</summary>
 <div align="center">
-$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
-$\textsf{\small\color{#bae6d9}when they cry, yttd, danganronpa,}$  
-$\textsf{\small\color{#bae6d9}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
-$\textsf{\small\color{#bae6d9}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
-$\textsf{\small\color{#bae6d9}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
-$\textsf{\small\color{#bae6d9}i love amy, alnst, etc...}$  
-$\textsf{\small\color{#bae6d9}music: nerdcore, j-pop, electronic (electroclash, cybergrind etc),}$  
-$\textsf{\small\color{#bae6d9}rock (alternative), numetal, emocore/screamo/myspace}$
+$\textsf{\small\color{#e8fff8}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
+$\textsf{\small\color{#e8fff8}when they cry, yttd, danganronpa,}$  
+$\textsf{\small\color{#e8fff8}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
+$\textsf{\small\color{#e8fff8}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
+$\textsf{\small\color{#e8fff8}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
+$\textsf{\small\color{#e8fff8}i love amy, alnst, etc...}$  
+$\textsf{\small\color{#e8fff8}music: nerdcore, j-pop, electronic (electroclash, cybergrind etc),}$  
+$\textsf{\small\color{#e8fff8}rock (alternative), numetal, emocore/screamo/myspace}$
 </div>
 </details>
 
 <details>
   <summary>$\textsf{\color{#81dbba}my typology}$</summary>
 
-$\textsf{\small\color{#bae6d9}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
-$\textsf{\small\color{#bae6d9}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
-$\textsf{\small\color{#bae6d9}feel free to correct if im wrong though.}$
+$\textsf{\small\color{#e8fff8}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
+$\textsf{\small\color{#e8fff8}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
+$\textsf{\small\color{#e8fff8}feel free to correct if im wrong though.}$
 
 </details>
 
 <details>
-  <summary>$\textsf{\color{#c5e8de}music and stuff}$</summary>
+  <summary>$\textsf{\color{#e8fff8}music and stuff}$</summary>
 
-$\textsf{\small\color{#bae6d9}what i'm currently listening to (or previously)}$
+$\textsf{\small\color{#e8fff8}what i'm currently listening to (or previously)}$
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=81cfa3&interchange=false&profanity=false&hide_remaster=false&bar_color=66cc92&bar_color_cover=true&mode=dark">
