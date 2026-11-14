@@ -15,10 +15,10 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 
 <details>
   <summary>$\textsf{\color{#c5e8de}my interests}$</summary>
-<div align="center">
-$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear n hunger (including termina),}$  
-$\textsf{\small\color{#bae6d9}when they cry (higurashi n umineko), yttd, danganronpa (udg n thh),}$  
-$\textsf{\small\color{#bae6d9}rwby, frozen soul (or dream game), typology, jjba, homestuck,}$  
+<div align="right">
+$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
+$\textsf{\small\color{#bae6d9}when they cry, yttd, danganronpa,}$  
+$\textsf{\small\color{#bae6d9}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
 $\textsf{\small\color{#bae6d9}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
 $\textsf{\small\color{#bae6d9}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
 $\textsf{\small\color{#bae6d9}i love amy, alnst, etc...}$  
