@@ -11,7 +11,7 @@ $\textsf{\color{#c5e8de}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d
 
 <p align="center"> 
   
-filo/ch　asian,&nbsp;&nbsp;eng preffered!!&nbsp;&nbsp;𑣲𝄞&nbsp;&nbsp;<strong>iwec if 20+　and 12-</strong>　
+$\textsf{\color{#c5e8de}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#81dbba}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#c5e8de}𑣲𝄞}$ &nbsp;&nbsp;$\textsf{\color{#81dbba}\textbf{iwec if 20+　and 12-}}$　
 
 <img align="left" width="250" src="https://file.garden/aGePDE9X_j-yMokP/yuyumyon2">
 
