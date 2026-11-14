@@ -13,31 +13,43 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 
 <table>
   <tr>
-    <td valign="top" width="160">
-      <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="140" />
+    <td valign="top" width="140">
+      <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" />
     </td>
-    <td valign="top">
+    <td valign="top" width="420">
 
 <details>
   <summary>my interests</summary>
 
-$\textsf{\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear and hunger (including termina), when they cry (higurashi n umineko), yttd,}$  
-$\textsf{\color{#bae6d9}danganronpa (ultra despair girls n trigger happy havoc), rwby, frozen soul (or dream game), typology, jjba,}$  
-$\textsf{\color{#bae6d9}homestuck, hetalia, deltarune/undertale, love curse: find your soulmate, morimens, project moon,}$  
-$\textsf{\color{#bae6d9}Kitanai Kimi ga Ichiban Kawaii (i love your cruddy), i love amy, alnst, etc...}$  
-$\textsf{\color{#bae6d9}music: nerdcore, j-pop, electronic music (such as electroclash, cybergrind etc), rock (alternative), numetal, emocore/screamo/myspace}$
+$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear \& hunger (including termina),}$  
+$\textsf{\small\color{#bae6d9}when they cry (higurashi \& umineko), yttd, danganronpa (udg \& thh),}$  
+$\textsf{\small\color{#bae6d9}rwby, frozen soul (or dream game), typology, jjba, homestuck,}$  
+$\textsf{\small\color{#bae6d9}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
+$\textsf{\small\color{#bae6d9}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
+$\textsf{\small\color{#bae6d9}i love amy, alnst, etc...}$  
+$\textsf{\small\color{#bae6d9}music: nerdcore, j-pop, electronic (electroclash, cybergrind etc),}$  
+$\textsf{\small\color{#bae6d9}rock (alternative), numetal, emocore/screamo/myspace}$
 
 </details>
 
 <details>
   <summary>my typology</summary>
 
-$\textsf{\color{#bae6d9}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI , |A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
-$\textsf{\color{#bae6d9}feel free to correct if im wrong though.}$
+$\textsf{\small\color{#bae6d9}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
+$\textsf{\small\color{#bae6d9}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
+$\textsf{\small\color{#bae6d9}feel free to correct if im wrong though.}$
 
 </details>
 
+<details>
+  <summary>something</summary>
+$\textsf{\small\color{#bae6d9}i miss my yuyuko and i love her ok.}$
+  <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=81cfa3&interchange=false&profanity=false&hide_remaster=false&bar_color=66cc92&bar_color_cover=true&mode=dark">
+  </a>
+</p>
+</details>
     
   </tr>
 </table>
-
