@@ -15,6 +15,4 @@ $\textsf{\color{#e8fff8}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#bae6d9}e
 
 <p align="center"> $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ships:　yuyumyon, komaeiki, }\textsf{\color{#81dbba}sakumei, seiyoshi}$ </p>
 
-<img align="center" width="150" src="https://file.garden/aGePDE9X_j-yMokP/Untitled48_20261114210727%20(1).png">
-
-<img align="right" width="250" src="https://file.garden/aGePDE9X_j-yMokP/yuyumyon2">
+<img align="center" width="150" src="https://file.garden/aGePDE9X_j-yMokP/myon.png">
