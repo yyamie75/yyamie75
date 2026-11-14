@@ -11,12 +11,7 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 
 </p>
 
-<table>
-  <tr>
-    <td valign="top" width="140">
-      <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" />
-    </td>
-    <td valign="top" width="420">
+<img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" align="left" />
 
 <details>
   <summary>my interests</summary>
@@ -43,13 +38,14 @@ $\textsf{\small\color{#bae6d9}feel free to correct if im wrong though.}$
 
 <details>
   <summary>something</summary>
-$\textsf{\small\color{#bae6d9}i miss my yuyuko and i love her ok.}$
-  <p align="center">
+
+$\textsf{\small\color{#bae6d9}what i'm currently listening to (or previously)}$
+<p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=81cfa3&interchange=false&profanity=false&hide_remaster=false&bar_color=66cc92&bar_color_cover=true&mode=dark">
   </a>
 </p>
+
 </details>
-    
-  </tr>
-</table>
+
+<br clear="left" />
