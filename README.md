@@ -15,7 +15,7 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 
 <details>
   <summary>$\textsf{\color{#c5e8de}my interests}$</summary>
-<div align="right">
+<div align="center">
 $\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
 $\textsf{\small\color{#bae6d9}when they cry, yttd, danganronpa,}$  
 $\textsf{\small\color{#bae6d9}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
