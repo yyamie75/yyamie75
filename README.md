@@ -1,4 +1,4 @@
-<img align="left" width="400" src="https://file.garden/aGePDE9X_j-yMokP/Untitled50_20261114180756.png">
+<img align="left" width="435" src="https://file.garden/aGePDE9X_j-yMokP/Untitled50_20261114180756.png">
 
 <p align="center">
 
