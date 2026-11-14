@@ -13,4 +13,6 @@ $\textsf{\color{#e8fff8}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#bae6d9}e
 
 <img align="left" width="250" src="https://file.garden/aGePDE9X_j-yMokP/yuyumyon2">
 
+i love my gf
+
 </p>
