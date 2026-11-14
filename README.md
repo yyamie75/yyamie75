@@ -14,10 +14,10 @@ $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ship
 <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" align="left" />
 
 <details>
-  <summary>my interests</summary>
+  <summary>$\textsf{\color{#c5e8de}my interests}$</summary>
 
-$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear \& hunger (including termina),}$  
-$\textsf{\small\color{#bae6d9}when they cry (higurashi \& umineko), yttd, danganronpa (udg \& thh),}$  
+$\textsf{\small\color{#bae6d9}touhou (th13 ♡), reverse 1999, fear n hunger (including termina),}$  
+$\textsf{\small\color{#bae6d9}when they cry (higurashi n umineko), yttd, danganronpa (udg n thh),}$  
 $\textsf{\small\color{#bae6d9}rwby, frozen soul (or dream game), typology, jjba, homestuck,}$  
 $\textsf{\small\color{#bae6d9}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
 $\textsf{\small\color{#bae6d9}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
@@ -28,7 +28,7 @@ $\textsf{\small\color{#bae6d9}rock (alternative), numetal, emocore/screamo/myspa
 </details>
 
 <details>
-  <summary>my typology</summary>
+  <summary>$\textsf{\color{#81dbba}my typology}$</summary>
 
 $\textsf{\small\color{#bae6d9}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
 $\textsf{\small\color{#bae6d9}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
@@ -37,7 +37,7 @@ $\textsf{\small\color{#bae6d9}feel free to correct if im wrong though.}$
 </details>
 
 <details>
-  <summary>something</summary>
+  <summary>$\textsf{\color{#c5e8de}music and stuff}$</summary>
 
 $\textsf{\small\color{#bae6d9}what i'm currently listening to (or previously)}$
 <p align="center">
