@@ -11,8 +11,8 @@ $\textsf{\color{#c5e8de}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d
   
 $\textsf{\color{#e8fff8}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#bae6d9}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#81dbba}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#e8fff8}\textbf{iwec if 12- and 20+}}$　
 
-</p>
+$\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ships:　yuyumyon, komaeiki, }\textsf{\color{#81dbba}sakumei, seiyoshi}$ 
 
-<p align="center"> $\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ships:　yuyumyon, komaeiki, }\textsf{\color{#81dbba}sakumei, seiyoshi}$ </p>
+</p>
 
 <img align="center" width="150" src="https://file.garden/aGePDE9X_j-yMokP/myon.png">
