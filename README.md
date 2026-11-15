@@ -3,7 +3,7 @@
 <p align="center">
 
 $\textsf{\color{#2b8a78}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#319784}\textbf{she},\ \color{#319784}any\ \color{#319784}pronouns,}$ &nbsp;&nbsp; 
-$\textsf{\color{#319784}\underline{\color{#319784}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#319784}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#f7eeed}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
+$\textsf{\color{#319784}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#319784}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#f7eeed}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
   
 $\textsf{\color{#319784}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#2b8a78}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#2b8a78}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#2b8a78}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
