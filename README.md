@@ -2,44 +2,44 @@
 
 <p align="center">
 
-$\textsf{\color{#81dbba}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#c5e8de}\textbf{she},\ \color{#c5e8de}any\ \color{#c5e8de}pronouns,}$ &nbsp;&nbsp; 
-$\textsf{\color{#c5e8de}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#c5e8de}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#f7eeed}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
+$\textsf{\color{#2b8a78}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#319784}\textbf{she},\ \color{#319784}any\ \color{#319784}pronouns,}$ &nbsp;&nbsp; 
+$\textsf{\color{#319784}\underline{\color{#319784}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#319784}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#f7eeed}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
   
-$\textsf{\color{#e8fff8}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#bae6d9}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#81dbba}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#e8fff8}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
+$\textsf{\color{#319784}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#2b8a78}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#2b8a78}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#2b8a78}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
-$\textsf{\color{#e8fff8}multishipper!!}　🍵　\textsf{\color{#c5e8de}fav ships:}　\textsf{\color{#e8fff8}yuyumyon, komaeiki, }\textsf{\color{#81dbba}sakumei, seiyoshi}$ 
+$\textsf{\color{#319784}multishipper!!}　🍵　\textsf{\color{#2b8a78}fav ships:}　\textsf{\color{#319784}yuyumyon, komaeiki, }\textsf{\color{#319784}sakumei, seiyoshi}$ 
 
 </p>
 
 <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" align="left" />
 
 <details>
-  <summary>$\textsf{\color{#c5e8de}my interests}$</summary>
+  <summary>$\textsf{\color{#2b8a78}my interests}$</summary>
 <div align="center">
-$\textsf{\small\color{#e8fff8}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
-$\textsf{\small\color{#e8fff8}when they cry, yttd, danganronpa,}$  
-$\textsf{\small\color{#e8fff8}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
-$\textsf{\small\color{#e8fff8}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
-$\textsf{\small\color{#e8fff8}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
-$\textsf{\small\color{#e8fff8}i love amy, alnst, etc...}$  
-$\textsf{\small\color{#e8fff8}music: nerdcore, j-pop, electronic (electroclash, cybergrind etc),}$  
-$\textsf{\small\color{#e8fff8}rock (alternative), numetal, emocore/screamo/myspace}$
+$\textsf{\small\color{#319784}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
+$\textsf{\small\color{#319784}when they cry, yttd, danganronpa,}$  
+$\textsf{\small\color{#319784}rwby, frozen soul (or dg), typology, jjba, homestuck,}$  
+$\textsf{\small\color{#319784}hetalia, deltarune/undertale, love curse: find your soulmate,}$  
+$\textsf{\small\color{#319784}morimens, project moon, Kitanai Kimi ga Ichiban Kawaii,}$  
+$\textsf{\small\color{#319784}i love amy, alnst, etc...}$  
+$\textsf{\small\color{#319784}music: nerdcore, j-pop, electronic (electroclash, cybergrind etc),}$  
+$\textsf{\small\color{#319784}rock (alternative), numetal, emocore/screamo/myspace}$
 </div>
 </details>
 
 <details>
-  <summary>$\textsf{\color{#81dbba}my typology}$</summary>
+  <summary>$\textsf{\color{#2b8a78}my typology}$</summary>
 
-$\textsf{\small\color{#e8fff8}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
-$\textsf{\small\color{#e8fff8}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
-$\textsf{\small\color{#e8fff8}feel free to correct if im wrong though.}$
+$\textsf{\small\color{#319784}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
+$\textsf{\small\color{#319784}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
+$\textsf{\small\color{#319784}feel free to correct if im wrong though.}$
 
 </details>
 
 <details>
-  <summary>$\textsf{\color{#e8fff8}music and stuff}$</summary>
+  <summary>$\textsf{\color{#319784}music and stuff}$</summary>
 
-$\textsf{\small\color{#e8fff8}what i'm currently listening to (or previously)}$
+$\textsf{\small\color{#2b8a78}what i'm currently listening to (or previously)}$
 <p align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&redirect=true">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rj3bbtw5nlxqoubgxjahgkzvhi&cover_image=true&theme=spotify-embed&show_offline=false&background_color=81cfa3&interchange=false&profanity=false&hide_remaster=false&bar_color=66cc92&bar_color_cover=true&mode=dark">
