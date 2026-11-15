@@ -28,11 +28,11 @@ $\textsf{\small\color{#8496a6}rock (alternative), numetal, emocore/screamo/myspa
 </details>
 
 <details>
-  <summary>$\textsf{\color{#de6287}my typology}$</summary>
+  <summary>$\textsf{\color{#319784}my typology}$</summary>
 
-$\textsf{\small\color{#bd8a99}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
-$\textsf{\small\color{#bd8a99}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
-$\textsf{\small\color{#bd8a99}feel free to correct if im wrong though.}$
+$\textsf{\small\color{#4fc2ad}ISFJ , SO/SX9w1 , 974 the gentle spirit , slO|A|x , ESI ,}$  
+$\textsf{\small\color{#4fc2ad}|A|CxIv/E/g , FELV , Phleg-Sang , true-neutral , VPBN ,}$  
+$\textsf{\small\color{#4fc2ad}feel free to correct if im wrong though.}$
 
 </details>
 
