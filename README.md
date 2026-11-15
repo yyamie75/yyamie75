@@ -5,7 +5,7 @@
 $\textsf{\color{#36a892}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#d67a96}\textbf{she},\ \color{#8496a6}any\ \color{#8496a6}pronouns,}$ &nbsp;&nbsp; 
 $\textsf{\color{#36a892}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#36a892}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#9c95a8}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
   
-$\textsf{\color{#36a892}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#8496a6}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#36a892}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#8496a6}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/"> $\textsf{\color{#d67a96}\textbf{MY ATABOOK!!}}$ </a>
+$\textsf{\color{#36a892}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#8496a6}eng preffered!!}$ &nbsp;&nbsp; $\textsf{\color{#36a892}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#8496a6}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
 $\textsf{\color{#319784}multishipper!!}　🍵　\textsf{\color{#36a892}fav ships:}　\textsf{\color{#8496a6}yuyumyon, komaeiki, }\textsf{\color{#d67a96}sakumei, seiyoshi}$ 
 
