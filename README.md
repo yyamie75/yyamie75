@@ -2,19 +2,19 @@
 
 <p align="center">
 
-$\textsf{\color{#49b8a2}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{she},\ \color{#d1a79f}any\ \color{#d1a79f}pronouns,}$ &nbsp;&nbsp; 
+$\textsf{\color{#5ad6be}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{she},\ \color{#d1a79f}any\ \color{#d1a79f}pronouns,}$ &nbsp;&nbsp; 
 $\textsf{\color{#36a892}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#36a892}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#9c95a8}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
   
-$\textsf{\color{#49b8a2}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#d1a79f}eng pref}$ &nbsp;&nbsp; $\textsf{\color{#49b8a2}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
+$\textsf{\color{#5ad6be}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#d1a79f}eng pref}$ &nbsp;&nbsp; $\textsf{\color{#5ad6be}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
-$\textsf{\color{#49b8a2}multishipper!!}　🍵　\textsf{\color{#d1a79f}fav ships:}　\textsf{\color{#8496a6}yuyumyon, komaeiki, }\textsf{\color{#de6287}sakumei, seiyoshi}$ 
+$\textsf{\color{#5ad6be}multishipper!!}　🍵　\textsf{\color{#d1a79f}fav ships:}　\textsf{\color{#d1a79f}yuyumyon, komaeiki, }\textsf{\color{#de6287}sakumei, seiyoshi}$ 
 
 </p>
 
 <img src="https://file.garden/aGePDE9X_j-yMokP/myon.png" width="120" align="left" />
 
 <details>
-  <summary>$\textsf{\color{#49b8a2}my interests}$</summary>
+  <summary>$\textsf{\color{#5ad6be}my interests}$</summary>
 <div align="center">
 $\textsf{\small\color{#d1a79f}touhou (th13 ♡), reverse 1999, fear n hunger,}$  
 $\textsf{\small\color{#d1a79f}when they cry, yttd, danganronpa,}$  
@@ -37,7 +37,7 @@ $\textsf{\small\color{#d1a79f}feel free to correct if im wrong though.}$
 </details>
 
 <details>
-  <summary>$\textsf{\color{#49b8a2}music and stuff}$</summary>
+  <summary>$\textsf{\color{#5ad6be}music and stuff}$</summary>
 
 $\textsf{\small\color{#d1a79f}what i'm currently listening to (or previously)}$
 <p align="center">
