@@ -5,7 +5,7 @@
 $\textsf{\color{#5ad6be}୨९ .}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{she},\ \color{#d1a79f}any\ \color{#d1a79f}pronouns,}$ &nbsp;&nbsp; 
 $\textsf{\color{#36a892}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d4dc9}ual,}}$ &nbsp;&nbsp; $\textsf{\color{#36a892}\underline{\color{#f59795}cup\color{#f2b4b3}io\color{#9c95a8}rom\color{#9998d4}an\color{#605f6b}tic}}$ 
   
-$\textsf{\color{#5ad6be}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#d1a79f}eng pref}$ &nbsp;&nbsp; $\textsf{\color{#5ad6be}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{fandom iwec}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
+$\textsf{\color{#5ad6be}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#d1a79f}eng pref}$ &nbsp;&nbsp; $\textsf{\color{#5ad6be}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{fandom int pls!!}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
 $\textsf{\color{#5ad6be}multishipper!!}　🌿　\textsf{\color{#5ad6be}fav ships:}　\textsf{\color{#d1a79f}yuyumyon, komaeiki, }\textsf{\color{#de6287}sakumei, seiyoshi}$ 
 
