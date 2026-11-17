@@ -7,7 +7,7 @@ $\textsf{\color{#36a892}\underline{\color{#e843c7}bis\color{#ac58e8}ex\color{#5d
   
 $\textsf{\color{#5ad6be}filo/ch　asian}$,&nbsp;&nbsp; $\textsf{\color{#d1a79f}eng pref}$ &nbsp;&nbsp; $\textsf{\color{#5ad6be}𑣲𝄞}$ &nbsp;&nbsp; $\textsf{\color{#de6287}\textbf{iwec if 12- and 20+}}$ &nbsp;&nbsp; <a href="https://yyamie.atabook.org/">MY ATABOOK!!</a>
 
-$\textsf{\color{#5ad6be}multishipper!!}　🍵　\textsf{\color{#d1a79f}fav ships:}　\textsf{\color{#d1a79f}yuyumyon, komaeiki, }\textsf{\color{#de6287}sakumei, seiyoshi}$ 
+$\textsf{\color{#5ad6be}multishipper!!}　🍵　\textsf{\color{#5ad6be}fav ships:}　\textsf{\color{#d1a79f}yuyumyon, komaeiki, }\textsf{\color{#de6287}sakumei, seiyoshi}$ 
 
 </p>
 
